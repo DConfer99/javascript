@@ -1,0 +1,2 @@
+# javascript
+For Javascript class.
